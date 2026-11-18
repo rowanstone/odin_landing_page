@@ -1,0 +1,45 @@
+* {
+    font-family: Roboto;
+}
+
+.persist, #hero {
+    background-color: #1F2937;
+}
+
+#logo-text {
+    font-size: 24px;
+    color: #F9FAF8;
+    text-decoration: none;
+}
+
+#hero h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+#hero p, .persist .nav-link {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.action {
+    background-color: #3882F6;
+}
+
+#info h2 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+#testimonial {
+    background-color: #E5E7EB;
+    color: #1F2937;
+}
+
+#testimonial .quote {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+}
